@@ -22,7 +22,7 @@
     list-style: none;
     display: flex;
     justify-content: left;
-    padding: 0;
+    padding: 5px;
 }
 
 .nav-index nav ul li {
@@ -32,7 +32,7 @@
 .nav-index nav ul li a {
     color: white;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: 200;
     padding: 5px 10px;
     transition: all 0.3s ease;
 }
@@ -65,7 +65,7 @@
 }
 
 .nav-index .nav-omnisiste a:hover {
-    background-color: darkmagneta;
+    background-color: darkmagenta;
     color: pink;
     text-decoration: underline;
 }
@@ -73,7 +73,7 @@
 .nav-index main {
     max-width: 1200px;
     margin: 10px auto;
-    padding: 0 16px;
+    padding: 2px 16px;
 }
 
 .nav-index div {
@@ -134,7 +134,7 @@
 
 .nav-loremipsum body {
     margin: 0;
-    padding: 0;
+    padding: 5px;
     background-color: #121212;
 }
 
@@ -198,7 +198,7 @@
 
 .nav-omnisiste body {
     margin: 0;
-    padding: 0;
+    padding: 5px;
 }
 
 .nav-omnisiste main > div {
